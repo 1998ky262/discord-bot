@@ -15,4 +15,4 @@ async def time(ctx):
     current_time = now.strftime("%Y/%m/%d %H:%M:%S")
     await ctx.send(f"現在時刻: {current_time}")
 
-bot.run("MTA3OTEwNDQ1MjgzOTA4MDA2OA.GGVaDZ.O_oAbC30OUyVpNjErwwQoHBdf5EA8q7Ps4xyGE")
+bot.run("とーくん！")
