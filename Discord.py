@@ -16,3 +16,4 @@ async def time(ctx):
     await ctx.send(f"現在時刻: {current_time}")
 
 bot.run("とーくん！")
+# 僕が普通にgithubにトークンアップロードしてディスコード本部から連絡が来たことは、口が裂けても言えません^ - ^
